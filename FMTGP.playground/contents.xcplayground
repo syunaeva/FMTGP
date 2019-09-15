@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios'>
     <pages>
-        <page name='TheFirstAlgorithm'/>
-        <page name='Untitled Page'/>
+        <page name='2. The First Algorithm'/>
+        <page name='3.Ancient Greek Number Theory'/>
     </pages>
 </playground>
