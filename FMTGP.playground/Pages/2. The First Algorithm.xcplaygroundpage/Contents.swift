@@ -42,7 +42,7 @@ func mult_acc1( _ r: Int, _ n: Int, _ a: Int) -> Int {
 }
 
 //: Egyptian multiplication with less recursive calls, more simplification - n is rarely 1.
-// If n is even, no poiny to check if it is 1
+// If n is even, no point to check if it is 1
 // TODO: how to avoid var r = r
 func mult_acc2( _ r: Int, _ n: Int, _ a: Int) -> Int {
     var r = r
