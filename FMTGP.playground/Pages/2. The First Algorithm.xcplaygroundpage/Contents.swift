@@ -1,8 +1,6 @@
 //: [Previous](@previous)
 
 import Foundation
-var str = "Hello, playground"
-
 
 func odd(_ n: Int) -> Bool { return n&0x1 == 1 }
 func half(_ n: Int) -> Int { return n >> 1 }
